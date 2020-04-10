@@ -1,0 +1,9 @@
+
+# These three lines remove all files with no extension
+*
+!/**/
+!*.*
+
+SoundLocAndRecODASClient/
+
+*.pub
