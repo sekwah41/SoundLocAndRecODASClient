@@ -2,6 +2,6 @@
 cd ../ || exit
 rm -rf bin/
 rm -rf CMakeFiles/
-cd ..
+cd Useful\ Scripts/ || exit
 ./update.sh
 make
