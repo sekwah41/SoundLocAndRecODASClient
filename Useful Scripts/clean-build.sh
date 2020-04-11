@@ -1,7 +1,6 @@
 #!/bin/bash
 cd ../ || exit
-rm -rf bin/
-rm -rf CMakeFiles/
+rm -rf build/
 cd Useful\ Scripts/ || exit
 ./update.sh
 make

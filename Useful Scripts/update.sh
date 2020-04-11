@@ -1,5 +1,7 @@
 #!/bin/bash
 cd ../ || exit
 git pull
-cmake CMakeLists.txt
+mkdir build
+cd build || exit
+cmake ../
 make
