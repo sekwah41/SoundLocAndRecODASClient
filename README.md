@@ -1,6 +1,6 @@
 Sound Localisation & Recognition
 ======
-This is built on top of [ODAS](https://github.com/introlab/odas). Basically this side is just odas but being used to make it easier to deploy configs and changes onto my raspberry pi.
+This is built on top of [ODAS](https://github.com/introlab/odas). Basically this side is just odas but being used to make it easier to deploy configs and changes onto my raspberry pi. More details can be found about the other components [here](https://github.com/sekwah41/SoundLocalisationAndRecognition) (will make this visible once the project has been submitted).
 
 ODAS ![Analytics](https://ga-beacon.appspot.com/UA-27707792-4/github-main?pixel) 
 =======
