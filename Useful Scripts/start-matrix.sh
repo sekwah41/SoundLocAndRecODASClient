@@ -14,4 +14,4 @@ sed -e "s/%webip%/$webip/g" template_network_matrix_voice.cfg > network_matrix_v
 
 cd ../../bin || exit
 
-./odaslive -c ../config/diss/matrix_voice.cfg
+./odaslive -c ../config/diss/network_matrix_voice.cfg
